@@ -1,57 +1,12 @@
-# Docus Starter
+# Разработка игр на Godot 4
 
-Starter template for [Docus](https://docus.dev).
+5 проектов, а также дополнительные ресурсы, которые помогут разработчикам освоить принципы использования Godot при создании игр.
 
-## Clone
 
-Clone the repository (using `nuxi`):
+[![imageban](https://i7.imageban.ru/thumbs/2024.06.18/56a7b1d093d51096fa395a93ab7d053c.png)](https://imageban.ru/show/2024/06/18/56a7b1d093d51096fa395a93ab7d053c/png)
 
-```bash
-npx nuxi init -t themes/docus
-```
 
-## Setup
+[![imageban](https://i1.imageban.ru/thumbs/2024.06.18/1baa4d5bf59d42eb054d6749f7244828.png)](https://imageban.ru/show/2024/06/18/1baa4d5bf59d42eb054d6749f7244828/png)
 
-Install dependencies:
 
-```bash
-yarn install
-```
 
-## Development
-
-```bash
-yarn dev
-```
-
-## Edge Side Rendering
-
-Can be deployed to Vercel Functions, Netlify Functions, AWS, and most Node-compatible environments.
-
-Look at all the available presets [here](https://v3.nuxtjs.org/guide/deploy/presets).
-
-```bash
-yarn build
-```
-
-## Static Generation
-
-Use the `generate` command to build your application.
-
-The HTML files will be generated in the .output/public directory and ready to be deployed to any static compatible hosting.
-
-```bash
-yarn generate
-```
-
-## Preview build
-
-You might want to preview the result of your build locally, to do so, run the following command:
-
-```bash
-yarn preview
-```
-
----
-
-For a detailed explanation of how things work, check out [Docus](https://docus.dev).
